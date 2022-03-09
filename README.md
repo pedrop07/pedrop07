@@ -3,7 +3,7 @@
 
 ### Hello World! I'm Pedro Parente
 Web Development Student
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcardosodev&color=003140" alt="Profile views" /> </p>
+<a height="40" href="https://github.com/pedrop07" target="_blank"><p align="left"> <img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" alt="Follow" /> </p> </a>
 
 ### - About me
 - 🌱 I'm learning React JS / Typescript / NodeJS
@@ -12,10 +12,9 @@ Web Development Student
 
 - 😎 I want to be a Full Stack Developer
 
-- 🤣 Fun fact: I'm afraid of ladybug
 <br><br>
 
-## 🛠 &nbsp;Tech Stack
+## 💡 &nbsp;Tech Stack
 <div style="display: inline-block">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -37,5 +36,5 @@ Web Development Student
 <div>
       <a height="40" href="https://www.linkedin.com/in/pedro-parente-689320216/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
       
-      <a href = "mailto:pedrofulfaro@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     
 </div>
