@@ -3,14 +3,14 @@
 
 ### Hello World! I'm Pedro Parente
 Web Development Student
-<a height="40" href="https://github.com/pedrop07" target="_blank"><p align="left"> <img src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000" alt="Follow" /> </p> </a>
+<a height="40" href="https://www.linkedin.com/in/pedro-parente-689320216/" target="_blank"><p align="left"> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" alt="ask" /> </p> </a>
 
 ### - About me
 - 🌱 I'm learning React JS / Typescript / NodeJS
 
-- 👨‍💻 I am currently studying Computer Science at IFCE
+- 💻 I am currently studying Computer Science at IFCE
 
-- 😎 I want to be a Full Stack Developer
+- 📚 I want to be a Full Stack Developer
 
 <br><br>
 
