@@ -1,16 +1,41 @@
-### Hi there 👋
+<img align="right" width="500em"
+					src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true"/>
 
-<!--
-**pedrop07/pedrop07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello World! I'm Pedro Parente
+Web Development Student
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielcardosodev&color=003140" alt="Profile views" /> </p>
 
-Here are some ideas to get you started:
+### - About me
+- 🌱 I'm learning React JS / Typescript / NodeJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I am currently studying Computer Science at IFCE
+
+- 😎 I want to be a Full Stack Developer
+
+- 🤣 Fun fact: I'm afraid of ladybug
+<br><br>
+
+## 🛠 &nbsp;Tech Stack
+<div style="display: inline-block">
+  <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+</div>
+ <br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+ <div>
+  <a href="https://github.com/pedrop07">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrop07&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrop07&layout=compact&langs_count=7&theme=github_dark"/>
+</div>
+<br><br>
+
+
+## 🙍‍♂ &nbsp;Social Links
+<div>
+      <a height="40" href="https://www.linkedin.com/in/pedro-parente-689320216/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-003140?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+      
+      <a href = "mailto:pedrofulfaro@gmail.com"><img src="https://img.shields.io/badge/-Gmail-003140?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
