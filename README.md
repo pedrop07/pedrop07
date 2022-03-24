@@ -8,7 +8,7 @@ Web Development Student
 ### - About me
 - 🌱 I'm learning React JS / Typescript / NodeJS
 
-- 💻 I am currently studying Computer Science at IFCE
+- 💻 Always studying something different
 
 - 📚 I want to be a Full Stack Developer
 
