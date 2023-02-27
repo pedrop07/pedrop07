@@ -3,6 +3,8 @@
 
 Front-end developer
 
+Currently working with ReactJS and TypeScript.
+
 Enthusiast of the best web development technologies, especially those focused on Javascript :)
 <br><br>
 [![Linkedin Badge](https://img.shields.io/badge/-Pedro%20Parente-00875f?style=flat-square&logo=Linkedin&color=blue&link=https://www.linkedin.com/in/pedro-parente-689320216/)](https://www.linkedin.com/in/pedro-parente-689320216/) 
